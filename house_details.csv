@@ -1,0 +1,505 @@
+id,home_type,bed,bath,play_ground,swming_tank,acre_lot,city,state,zip_code,house_size
+ab67xvd45a,Single Family,3,2,Y,Y,0.12,Hammonton,New Jersey,8037,930
+CGfuTAja6e,Multi Family,2,2,Y,N,0.08,Hudson County,New Jersey,8037,560
+r2BHN1B6fR,Single Family,2,1,Y,N,0.085,Hammonton,New Jersey,8037,570
+ni8kQpBlI7,Land,0,0,N,N,1.1,Hammonton,New Jersey,8037,1200
+h11DyplDcR,Land,1,4,Y,Y,1.882,Atlantic City,New Jersey,8405,821
+5IOEEg9hRy,Single Family,5,1,N,Y,4.62,Basking Ridge,New Jersey,7920,2943
+4WhkabfGQd,Land,5,1,Y,N,0.209,Basking Ridge,New Jersey,7920,1133
+pgwaVIyoP6,Land,0,4,N,Y,7.386,Hudson County,New Jersey,7305,1788
+Wghor650ut,Multi Family,4,2,N,Y,6.226,Atlantic City,New Jersey,8405,2848
+V3kruET44H,Multi Family,3,0,Y,Y,9.244,Atlantic City,New Jersey,8404,1404
+l6wqXX9YaO,Land,1,4,Y,Y,7.692,Hammonton,New Jersey,8037,445
+MRwg0kgv4a,Multi Family,3,4,N,N,8.023,Hammonton,New Jersey,8037,1937
+ZZLxjAnoQk,Land,1,4,N,N,7.872,Atlantic City,New Jersey,8402,2667
+RlHpjKa1W0,Single Family,5,3,Y,Y,2.425,Atlantic City,New Jersey,8405,2998
+YubSESQrpS,Multi Family,1,2,Y,N,2.858,Elizabeth,New Jersey,7216,2647
+XAsSAoYzXv,Single Family,3,0,N,Y,9.12,Atlantic City,New Jersey,8402,2660
+Nhf7MTi81I,Single Family,1,1,N,N,0.261,Basking Ridge,New Jersey,7920,802
+NNESBsuhLv,Single Family,4,4,Y,N,9.711,Hammonton,New Jersey,8037,2439
+zfQ5u9Fmk7,Land,3,0,Y,N,2.552,Elizabeth,New Jersey,7208,2938
+sZpZtCUttZ,Land,3,1,N,N,3.041,Elizabeth,New Jersey,7208,257
+ajimRuDzm6,Single Family,2,1,Y,N,6.401,Atlantic City,New Jersey,8405,2410
+9zvlBqCkIc,Land,5,3,Y,Y,9.591,Hudson County,New Jersey,7305,1178
+CJQ7vMwjam,Land,0,1,N,Y,3.87,Elizabeth,New Jersey,7215,662
+FNTrSoPKO4,Land,1,4,Y,N,1.587,Elizabeth,New Jersey,7216,2833
+8KiO56eDal,Land,3,3,Y,N,5.623,Hudson County,New Jersey,7305,284
+Da3G3jGLDx,Multi Family,3,3,Y,Y,0.33,Atlantic City,New Jersey,8402,2835
+JdUMRZivy5,Land,0,1,Y,Y,5.729,Basking Ridge,New Jersey,7920,1616
+nbBzVcXJdY,Multi Family,3,4,N,Y,8.227,Atlantic City,New Jersey,8402,2861
+uFkrFMx3fC,Land,1,0,Y,N,0.603,Elizabeth,New Jersey,7216,711
+a55fZdTwxX,Multi Family,3,0,N,Y,9.575,Hudson County,New Jersey,7305,2546
+pmW1olfPdG,Multi Family,2,2,N,Y,0.73,Hudson County,New Jersey,7305,1164
+6a8qVts676,Multi Family,1,4,Y,Y,2.031,Atlantic City,New Jersey,8402,564
+HGFmoZkAU5,Multi Family,4,4,N,N,1.349,Hammonton,New Jersey,8037,753
+y2WwrVVCg8,Land,1,3,N,Y,0.918,Elizabeth,New Jersey,7215,1046
+iz3qIZzpar,Single Family,3,1,Y,N,4.708,Atlantic City,New Jersey,8404,656
+UK86sFS5f6,Single Family,1,3,Y,Y,0.689,Elizabeth,New Jersey,7216,643
+eb23C6HUV3,Single Family,3,3,Y,Y,1.652,Atlantic City,New Jersey,8404,1824
+D8w0lcLLQ0,Land,4,4,Y,Y,3.082,Hudson County,New Jersey,7305,1116
+w6Cqh0q3vp,Multi Family,5,0,Y,N,0.897,Basking Ridge,New Jersey,7920,1740
+AmyaapVoXR,Land,5,4,Y,Y,8.677,Elizabeth,New Jersey,7215,2665
+aVQmW1UOqq,Multi Family,2,2,Y,Y,3.439,Atlantic City,New Jersey,8402,1836
+7o7YsASwXH,Land,3,1,N,N,6.229,Hudson County,New Jersey,7305,1410
+3wh5ffJRoq,Land,1,4,Y,N,2.595,Basking Ridge,New Jersey,7920,1799
+ubuIc4DDi2,Single Family,0,2,N,N,4.277,Hudson County,New Jersey,7305,2422
+XqpQjYGyYO,Single Family,5,4,Y,N,5.384,Elizabeth,New Jersey,7216,280
+JbN0U2BU2M,Multi Family,1,2,N,N,5.792,Atlantic City,New Jersey,8405,454
+dIyX9Xiu4f,Multi Family,1,4,Y,N,0.714,Atlantic City,New Jersey,8402,475
+M9KgG0Mcz1,Single Family,2,0,Y,N,2.137,Atlantic City,New Jersey,8402,2491
+XvAL2C7dyV,Land,3,3,N,N,3.787,Elizabeth,New Jersey,7216,412
+8JoBTrxYkk,Land,2,1,Y,N,9.389,Basking Ridge,New Jersey,7920,106
+bGj9362uRX,Single Family,4,0,N,N,0.929,Atlantic City,New Jersey,8404,2236
+iTL7UzAE7l,Multi Family,4,2,N,N,1.914,Elizabeth,New Jersey,7216,1291
+oNNPq1osi0,Multi Family,3,1,Y,N,1.717,Elizabeth,New Jersey,7216,1892
+C0FuWd7eYA,Multi Family,2,0,Y,N,4.814,Hammonton,New Jersey,8037,2410
+xVNMHa40iS,Multi Family,3,4,Y,Y,6.117,Atlantic City,New Jersey,8402,1919
+lFqhmBs8r5,Single Family,2,1,N,Y,8.385,Hudson County,New Jersey,7305,2531
+pU2BwWVQHD,Single Family,1,0,Y,N,6.465,Atlantic City,New Jersey,8404,2253
+H2m2cQ4SWk,Multi Family,4,0,N,N,2.66,Elizabeth,New Jersey,7215,1966
+j3blIsdyea,Multi Family,2,2,Y,N,4.169,Basking Ridge,New Jersey,7920,2718
+NbVUgMDBlr,Single Family,4,3,Y,N,9.277,Hammonton,New Jersey,8037,1947
+c1Ivy0wHTo,Single Family,1,1,Y,N,2.112,Atlantic City,New Jersey,8405,873
+L3xWRV6BXP,Multi Family,5,1,N,N,2.57,Hammonton,New Jersey,8037,1781
+Az4Mx1wx0a,Single Family,1,2,N,N,4.372,Elizabeth,New Jersey,7208,182
+442C7O059N,Single Family,4,4,Y,N,9.139,Hudson County,New Jersey,7305,402
+5iLBZB7ZaF,Multi Family,4,0,N,Y,3.833,Hammonton,New Jersey,8037,1205
+Eyt28UJ7WF,Multi Family,5,4,Y,Y,1.46,Atlantic City,New Jersey,8405,2271
+qtkZBv1JQW,Single Family,0,4,N,N,8.036,Atlantic City,New Jersey,8402,1161
+MtCd1v6g8l,Land,4,4,Y,Y,1.155,Hammonton,New Jersey,8037,2326
+IUc1q86O1R,Land,5,1,Y,N,2.191,Hudson County,New Jersey,7305,695
+rsVY3UuozU,Multi Family,0,1,Y,N,5.981,Elizabeth,New Jersey,7208,2011
+NX8yGCNTZq,Single Family,1,3,Y,N,1.459,Atlantic City,New Jersey,8402,492
+OsbPulJwJa,Single Family,2,4,Y,N,2.503,Basking Ridge,New Jersey,7920,735
+ZiF1FQ8urG,Single Family,4,3,Y,N,7.012,Elizabeth,New Jersey,7216,734
+vPdpLDraEy,Single Family,1,1,N,N,0.905,Atlantic City,New Jersey,8404,713
+WLhEkP8hvD,Multi Family,1,2,N,Y,0.408,Elizabeth,New Jersey,7215,2582
+Mq4NTeA7Wr,Land,5,3,Y,Y,3.56,Basking Ridge,New Jersey,7920,1140
+csZ3WUgN3p,Land,5,1,N,N,3.325,Atlantic City,New Jersey,8404,156
+XwiKjJLqEt,Multi Family,1,0,Y,N,1.259,Atlantic City,New Jersey,8402,2099
+TX45eIAyTp,Single Family,0,0,N,N,6.327,Elizabeth,New Jersey,7215,885
+vtZHYt3Yr5,Multi Family,4,3,N,Y,5.06,Hudson County,New Jersey,7305,1038
+w6qqalwXPP,Multi Family,1,4,Y,Y,7.728,Atlantic City,New Jersey,8402,1450
+xbouNhg7gs,Single Family,2,4,Y,N,6.457,Elizabeth,New Jersey,7208,1529
+KIHwxDU4aJ,Multi Family,1,4,Y,Y,4.429,Elizabeth,New Jersey,7208,1098
+E5Kh2c8SWw,Land,3,4,Y,Y,5.148,Atlantic City,New Jersey,8405,1074
+38s5SUTZBj,Single Family,0,2,N,Y,7.492,Hammonton,New Jersey,8037,655
+MYst5Df5dA,Multi Family,4,2,Y,Y,6.062,Atlantic City,New Jersey,8402,2143
+2eHm1yuWIL,Land,0,1,Y,N,4.778,Elizabeth,New Jersey,7216,842
+WL9ouwbqvF,Land,1,2,N,Y,9.572,Atlantic City,New Jersey,8404,1497
+t5ZbQNFyzK,Multi Family,0,2,Y,Y,8.968,Atlantic City,New Jersey,8405,1001
+gRyl6rTWnm,Multi Family,1,2,Y,N,3.94,Basking Ridge,New Jersey,7920,185
+YNRPEFepK4,Single Family,1,0,N,Y,0.984,Elizabeth,New Jersey,7215,1654
+iqwbuGsKmM,Multi Family,2,1,N,N,3.948,Atlantic City,New Jersey,8402,617
+Dy6yeq8PHU,Single Family,1,4,N,N,1.68,Atlantic City,New Jersey,8405,2350
+njT2dOKJsB,Land,0,2,Y,N,2.106,Elizabeth,New Jersey,7216,2954
+ZfuHucaYnu,Single Family,5,2,N,N,7.584,Hudson County,New Jersey,7305,883
+1cUaGLh98R,Multi Family,5,2,Y,N,3.875,Atlantic City,New Jersey,8402,1318
+8hvj6PMevb,Land,5,3,Y,Y,4.19,Elizabeth,New Jersey,7208,2812
+9d4juz0c5Q,Multi Family,2,2,Y,N,2.907,Hudson County,New Jersey,7305,559
+4pX7HMuSN3,Single Family,3,3,N,Y,1.417,Elizabeth,New Jersey,7208,1050
+YYexi0aNxr,Single Family,0,1,N,Y,2.184,Atlantic City,New Jersey,8402,739
+p2EHnzXq8d,Single Family,5,1,N,Y,7.914,Atlantic City,New Jersey,8404,100
+8pghJdEva7,Land,5,4,Y,Y,8.392,Atlantic City,New Jersey,8402,2324
+xZ52GtwgVH,Single Family,1,3,N,Y,9.337,Hudson County,New Jersey,7305,1707
+ehx0SKaaii,Multi Family,3,2,Y,N,9.089,Atlantic City,New Jersey,8404,722
+X8I8RDLrNV,Multi Family,3,1,Y,N,9.588,Atlantic City,New Jersey,8402,1644
+PPSn8tiuQH,Land,3,0,Y,Y,4.833,Hammonton,New Jersey,8037,2868
+mqemmSA28n,Land,3,0,Y,N,2.972,Atlantic City,New Jersey,8404,1714
+lR2DqJiY0K,Multi Family,3,4,N,N,3.195,Atlantic City,New Jersey,8402,1259
+VuqyXQDYBw,Single Family,2,0,N,N,8.874,Hammonton,New Jersey,8037,1907
+zeB0TPYpc0,Single Family,5,1,N,N,1.666,Hammonton,New Jersey,8037,2795
+dk0XVSaxwK,Multi Family,3,2,N,Y,5.873,Elizabeth,New Jersey,7208,1182
+IbnbALGmme,Multi Family,5,4,N,Y,2.184,Basking Ridge,New Jersey,7920,2994
+MiFIBzXfHF,Single Family,3,0,Y,N,1.934,Atlantic City,New Jersey,8402,2550
+5dRm6v3Lc3,Multi Family,1,0,Y,Y,0.136,Elizabeth,New Jersey,7216,1707
+6lB4smV1di,Multi Family,0,3,Y,N,5.322,Hudson County,New Jersey,7305,312
+t8w2ORFBWX,Multi Family,5,0,Y,Y,1,Atlantic City,New Jersey,8404,425
+AJZshThQ8r,Single Family,0,4,N,Y,2.283,Elizabeth,New Jersey,7216,1174
+xbzEh6jxLA,Single Family,1,3,Y,Y,3.976,Atlantic City,New Jersey,8404,2854
+xPRXcVL7uX,Single Family,3,4,N,Y,0.689,Atlantic City,New Jersey,8402,2225
+gGN5KwrPWp,Multi Family,4,2,Y,Y,4.124,Elizabeth,New Jersey,7216,2896
+l8nLh1Z4AD,Single Family,4,3,N,N,5.648,Hammonton,New Jersey,8037,1255
+lkihReBapo,Land,1,1,N,N,5.239,Elizabeth,New Jersey,7216,1975
+KgvzFuecsm,Land,0,3,N,N,9.849,Basking Ridge,New Jersey,7920,2476
+ZAeU3PqOoO,Land,1,2,Y,Y,8.138,Atlantic City,New Jersey,8402,2116
+erMk64GXTl,Multi Family,0,1,Y,N,3.689,Basking Ridge,New Jersey,7920,1051
+YYQMWcYkRY,Land,4,3,Y,N,2.718,Hudson County,New Jersey,7305,1362
+y3lLxjCmyn,Land,2,2,Y,N,1.087,Basking Ridge,New Jersey,7920,2313
+8oe4Bt9YGu,Single Family,3,0,Y,Y,1.992,Elizabeth,New Jersey,7216,2853
+eENT4HzUwS,Multi Family,0,2,N,N,1.047,Atlantic City,New Jersey,8402,1430
+ytnSBiIG5i,Land,3,1,N,N,6.387,Elizabeth,New Jersey,7216,2074
+p17mh4rZrI,Land,1,4,Y,N,6.942,Basking Ridge,New Jersey,7920,2582
+YpCMWG85Ax,Multi Family,5,3,N,Y,3.775,Hudson County,New Jersey,7305,1993
+PPyEr6IqZz,Multi Family,3,1,Y,Y,7.979,Atlantic City,New Jersey,8402,904
+HaiV7tvToh,Land,4,3,N,N,4.738,Elizabeth,New Jersey,7216,1731
+bAZ8OLFMbX,Multi Family,1,2,Y,Y,3.505,Hammonton,New Jersey,8037,2180
+LoRori6r2y,Land,2,0,N,Y,6.537,Hammonton,New Jersey,8037,2718
+MHqzI15ytT,Single Family,1,4,Y,N,4.135,Basking Ridge,New Jersey,7920,522
+W3ddpuhfbe,Single Family,3,3,Y,N,4.88,Basking Ridge,New Jersey,7920,1864
+ApKmjaJTYz,Multi Family,5,1,Y,Y,4.17,Atlantic City,New Jersey,8404,1972
+KP1rBDmtld,Single Family,5,4,Y,Y,5.164,Hudson County,New Jersey,7305,541
+4Wcfjtc0df,Single Family,5,3,Y,N,7.652,Hudson County,New Jersey,7305,2241
+Gewpyt74qw,Single Family,3,2,Y,Y,3.774,Atlantic City,New Jersey,8404,719
+yOR9hWmR9R,Multi Family,0,0,Y,Y,6.243,Elizabeth,New Jersey,7216,739
+jNcNXZiIvJ,Multi Family,5,2,N,Y,7.816,Hammonton,New Jersey,8037,2639
+SjtGrjKjf3,Multi Family,3,1,N,Y,3.582,Atlantic City,New Jersey,8404,1617
+4EANkvlL33,Single Family,2,1,Y,Y,5.866,Hudson County,New Jersey,7305,465
+gO2FEwFnqV,Multi Family,5,0,Y,N,7.096,Elizabeth,New Jersey,7216,1548
+9YmNcbAMdz,Land,5,3,N,Y,2.831,Elizabeth,New Jersey,7215,374
+SvDVx6nlsQ,Multi Family,0,1,Y,N,1.761,Elizabeth,New Jersey,7216,804
+eusQvPRTkH,Single Family,2,3,Y,Y,6.726,Elizabeth,New Jersey,7208,1202
+RulrQVlo6N,Single Family,5,2,Y,N,3.097,Elizabeth,New Jersey,7208,493
+8p3iFQFCkQ,Single Family,2,3,Y,Y,7.316,Basking Ridge,New Jersey,7920,659
+bc5W9XcrcN,Land,5,0,Y,N,0.754,Hammonton,New Jersey,8037,670
+1e2zUZiHQq,Single Family,4,1,Y,N,7.024,Atlantic City,New Jersey,8405,2865
+ulMBmfV8Nr,Multi Family,5,4,N,N,6.272,Basking Ridge,New Jersey,7920,417
+PFJ1fwv5L5,Single Family,3,3,Y,Y,4.898,Elizabeth,New Jersey,7208,1667
+TwBGCyYPGT,Land,0,3,N,Y,4.2,Basking Ridge,New Jersey,7920,2252
+RWRyWgraCU,Land,5,1,N,N,9.609,Hudson County,New Jersey,7305,1828
+I3HLqayAtN,Single Family,5,2,N,N,6.785,Elizabeth,New Jersey,7215,2619
+3cVvUKT4Te,Land,2,4,N,Y,0.303,Elizabeth,New Jersey,7215,2504
+McPtXffGvE,Single Family,0,3,Y,Y,0.298,Atlantic City,New Jersey,8404,1002
+LKLwsSFtRE,Multi Family,4,1,Y,Y,4.582,Elizabeth,New Jersey,7208,459
+LBwZvRKEvN,Single Family,1,0,Y,Y,0.316,Atlantic City,New Jersey,8404,1172
+r7ZJtvmmOu,Land,4,0,N,N,9.969,Atlantic City,New Jersey,8405,2063
+wH5Mr10Z6G,Single Family,0,1,N,N,8.495,Atlantic City,New Jersey,8405,2959
+NOB6l84Pm5,Multi Family,1,1,N,N,4.74,Hudson County,New Jersey,7305,825
+AIugfodIn0,Land,3,3,N,N,4.725,Elizabeth,New Jersey,7208,2482
+HV4DcIncbZ,Land,1,0,Y,Y,6.553,Atlantic City,New Jersey,8402,1192
+yDaFSOMz2h,Single Family,5,4,Y,Y,4.946,Atlantic City,New Jersey,8404,110
+JXfNgtNywB,Land,5,4,N,N,6.923,Atlantic City,New Jersey,8404,944
+KlrNJPVS20,Land,1,2,N,N,4.255,Basking Ridge,New Jersey,7920,2112
+iHM5SGEYiB,Land,2,3,N,N,5.518,Atlantic City,New Jersey,8405,372
+FnWqn7EOkh,Land,3,0,N,Y,5.824,Hudson County,New Jersey,7305,1199
+xd6OARiO4a,Land,3,2,Y,Y,5.963,Atlantic City,New Jersey,8402,2351
+qYX95D8XsO,Multi Family,4,0,N,N,3.148,Atlantic City,New Jersey,8402,148
+cl0Qq782sA,Single Family,5,3,N,Y,9.333,Elizabeth,New Jersey,7215,1072
+ZjbxkcZOsG,Land,2,2,Y,Y,3.174,Hudson County,New Jersey,7305,618
+e6xT3snn28,Single Family,3,2,N,N,2.845,Hammonton,New Jersey,8037,1899
+rfDffS90FM,Multi Family,2,3,N,N,6.971,Elizabeth,New Jersey,7216,214
+PP36A1z4h4,Multi Family,0,1,N,N,8.26,Hammonton,New Jersey,8037,2518
+6WEHXsnzaJ,Multi Family,4,0,Y,Y,7.238,Elizabeth,New Jersey,7208,1535
+KsOwX98P5t,Multi Family,2,0,N,Y,7.538,Basking Ridge,New Jersey,7920,1866
+zgBr2x60p4,Land,3,3,Y,N,4.542,Basking Ridge,New Jersey,7920,984
+jJ4IT0B0mH,Single Family,3,4,Y,Y,6.188,Hudson County,New Jersey,7305,1992
+66h6kyATie,Land,2,4,N,Y,9.701,Hammonton,New Jersey,8037,2598
+OYytE3uV5J,Single Family,5,2,Y,Y,7.624,Elizabeth,New Jersey,7215,878
+LWPaG7VVb7,Multi Family,3,4,Y,Y,2.247,Elizabeth,New Jersey,7216,1603
+JCTNXQWVar,Land,0,0,N,Y,5.279,Elizabeth,New Jersey,7215,305
+AsQVX4QFzg,Land,0,2,Y,N,0.932,Atlantic City,New Jersey,8405,973
+3nLJCAhTPV,Multi Family,4,4,Y,Y,8.407,Elizabeth,New Jersey,7216,862
+QQzSVuy5dO,Single Family,5,2,N,N,9.262,Elizabeth,New Jersey,7216,2482
+nSS0Cp8H6z,Single Family,5,3,N,Y,6.169,Hudson County,New Jersey,7305,2480
+CoS8XJkpgK,Single Family,4,4,N,N,1.558,Hudson County,New Jersey,7305,964
+aLXYuxomkl,Land,5,3,N,N,1.606,Elizabeth,New Jersey,7216,1598
+TtBDbnj1Vw,Single Family,2,3,Y,Y,0.519,Atlantic City,New Jersey,8402,2652
+1wzJ09ekFN,Single Family,1,1,N,Y,1.715,Hammonton,New Jersey,8037,1335
+YVxCWin5lv,Multi Family,5,4,Y,Y,6.013,Hammonton,New Jersey,8037,1189
+N9ZVmYgivA,Land,4,1,Y,Y,6.143,Atlantic City,New Jersey,8405,1559
+YFie1rAeco,Multi Family,3,1,N,Y,8.49,Atlantic City,New Jersey,8404,684
+ErhrrtKb3n,Single Family,0,0,N,Y,0.626,Hammonton,New Jersey,8037,2376
+bOkNRxJoHc,Single Family,3,1,N,N,9.675,Atlantic City,New Jersey,8404,1984
+ybgpsxKvBZ,Land,4,1,Y,Y,6.103,Hudson County,New Jersey,7305,225
+e3xXZHzzOT,Land,4,0,Y,N,1.603,Hammonton,New Jersey,8037,2486
+NTTyqrXH1w,Single Family,5,4,N,Y,3.703,Basking Ridge,New Jersey,7920,2396
+CvjF7dlzUM,Single Family,4,3,N,N,5.292,Atlantic City,New Jersey,8405,1941
+2Mr7uQ1Wra,Multi Family,1,0,N,Y,4.223,Atlantic City,New Jersey,8404,1998
+YEa7prL9ku,Land,4,3,Y,N,9.977,Elizabeth,New Jersey,7216,1725
+N635uSaAX8,Single Family,2,2,Y,N,6.084,Hammonton,New Jersey,8037,1919
+Id5I3xtmcO,Land,4,0,N,Y,4.656,Elizabeth,New Jersey,7216,1444
+NptW8vRQYr,Land,4,1,Y,N,9.413,Elizabeth,New Jersey,7216,2656
+2iiGyak1jC,Land,4,0,N,Y,3.808,Basking Ridge,New Jersey,7920,2615
+DT5YGBtvKG,Multi Family,0,4,Y,N,8.249,Elizabeth,New Jersey,7215,2366
+woEZFm5cVD,Single Family,5,4,N,Y,7.89,Elizabeth,New Jersey,7216,1849
+geRPlll9ai,Multi Family,2,4,N,N,5.713,Elizabeth,New Jersey,7216,2796
+VS6DvXQV4l,Land,2,4,Y,N,7.279,Hammonton,New Jersey,8037,1465
+YML71vvQum,Single Family,1,2,N,Y,6.255,Atlantic City,New Jersey,8402,952
+7jRwdHkwoY,Land,3,4,Y,N,8.055,Elizabeth,New Jersey,7208,396
+v4dcAt0ASA,Single Family,0,3,N,N,7.613,Atlantic City,New Jersey,8405,2351
+0MSthRdnuw,Land,2,2,Y,N,1.086,Elizabeth,New Jersey,7216,2090
+d6DWbliQWq,Single Family,4,0,N,N,8.924,Hudson County,New Jersey,7305,2111
+M5Uf51wgH6,Land,5,3,N,N,3.316,Basking Ridge,New Jersey,7920,977
+qzKYp5Duov,Single Family,3,3,Y,Y,8.492,Hammonton,New Jersey,8037,1473
+OOVgsJcHTs,Single Family,1,2,Y,Y,0.51,Atlantic City,New Jersey,8405,2340
+CKxqYrO9L8,Multi Family,4,2,Y,N,5.099,Basking Ridge,New Jersey,7920,2484
+cgn8rzdY5d,Multi Family,4,0,N,N,4.363,Elizabeth,New Jersey,7215,1853
+CfWiRx0CRF,Multi Family,1,3,N,Y,6.966,Atlantic City,New Jersey,8404,2650
+ZLjCBDo79A,Multi Family,5,1,Y,Y,2.081,Hammonton,New Jersey,8037,360
+B2x2RYHT20,Multi Family,1,3,Y,Y,7.472,Atlantic City,New Jersey,8405,2151
+KOF3Vadbt6,Single Family,0,2,Y,Y,2.16,Atlantic City,New Jersey,8405,563
+JSIWbz3hRN,Single Family,3,4,Y,N,0.904,Atlantic City,New Jersey,8402,2319
+GCVFQZM0S0,Single Family,0,0,Y,N,4.178,Elizabeth,New Jersey,7208,2124
+NjT3GooESg,Multi Family,5,2,Y,Y,8.11,Basking Ridge,New Jersey,7920,2951
+i0Czci60mq,Multi Family,3,3,N,Y,5.428,Elizabeth,New Jersey,7215,984
+xfCjOzFbJA,Single Family,3,3,N,Y,1.029,Atlantic City,New Jersey,8402,951
+V0SGoYC0DB,Land,2,4,Y,N,6.419,Hammonton,New Jersey,8037,2193
+BMEmR0xxFP,Land,4,2,N,Y,0.938,Basking Ridge,New Jersey,7920,795
+XitnovEvzd,Single Family,1,0,N,N,6.798,Elizabeth,New Jersey,7215,2749
+UktCvLQZun,Single Family,1,3,N,Y,1.196,Atlantic City,New Jersey,8404,1929
+si6Gair9rD,Land,1,4,N,N,1.087,Atlantic City,New Jersey,8402,128
+1tYfzmJGra,Single Family,1,4,N,N,4.805,Atlantic City,New Jersey,8405,376
+0AVQltLwXI,Single Family,4,2,Y,Y,2.826,Hudson County,New Jersey,7305,216
+TIKrElSaqK,Multi Family,1,0,Y,N,8.057,Basking Ridge,New Jersey,7920,2313
+o0WgF2FfJl,Single Family,1,2,Y,Y,3.154,Elizabeth,New Jersey,7208,398
+hwLaKcFuHi,Multi Family,2,2,N,Y,5.179,Basking Ridge,New Jersey,7920,358
+3rdu8arlrX,Single Family,2,1,Y,Y,8.006,Basking Ridge,New Jersey,7920,964
+MbxB41hfYS,Land,1,3,N,Y,2,Basking Ridge,New Jersey,7920,738
+lH1rvAoXC0,Single Family,3,4,N,Y,0.646,Hammonton,New Jersey,8037,297
+OIBY9D1lez,Single Family,0,4,N,Y,0.182,Elizabeth,New Jersey,7208,976
+Mna4MmoPFa,Multi Family,0,2,Y,N,6.754,Elizabeth,New Jersey,7215,309
+UpaUxcPUD0,Single Family,0,2,Y,N,1.82,Elizabeth,New Jersey,7216,2959
+SozbJDUbBo,Multi Family,2,0,Y,N,2.537,Atlantic City,New Jersey,8404,734
+awsyKqpDVT,Land,5,2,N,N,1.59,Elizabeth,New Jersey,7216,547
+lQmTeiIYA9,Multi Family,1,1,N,Y,9.335,Atlantic City,New Jersey,8404,2150
+9vggsI0Pus,Land,4,3,N,Y,2.721,Elizabeth,New Jersey,7216,934
+dN1izwtzbm,Single Family,2,1,Y,N,2.644,Hudson County,New Jersey,7305,1826
+KvV5FNWUA6,Land,5,3,N,Y,3.345,Elizabeth,New Jersey,7208,457
+vc1ezxZ7Cl,Land,4,2,N,Y,6.429,Basking Ridge,New Jersey,7920,2600
+BpYclER78R,Multi Family,1,2,Y,Y,5.019,Atlantic City,New Jersey,8404,2620
+NlqszU5f2k,Multi Family,5,0,N,N,3.524,Atlantic City,New Jersey,8402,2094
+VKb8fsQpYf,Single Family,0,2,N,Y,3.636,Basking Ridge,New Jersey,7920,1547
+NR22kAtHv2,Single Family,3,1,N,Y,6.097,Basking Ridge,New Jersey,7920,829
+gC36PgVSzR,Single Family,2,2,N,N,9.492,Atlantic City,New Jersey,8402,2372
+SM2CoyxQGL,Land,1,0,Y,Y,2.253,Atlantic City,New Jersey,8405,1971
+ACfZ7p4k7t,Single Family,0,0,Y,N,7.087,Elizabeth,New Jersey,7215,910
+Z3Mck6HNsJ,Land,3,3,Y,Y,7.857,Elizabeth,New Jersey,7208,1367
+9admyqEI8L,Multi Family,2,3,Y,N,1.804,Atlantic City,New Jersey,8404,2915
+Mr5j7pPifu,Multi Family,2,1,Y,N,7.564,Elizabeth,New Jersey,7216,2241
+Le4JjWR8jN,Single Family,1,0,N,N,1.369,Atlantic City,New Jersey,8404,2170
+gpZkB4ZyUl,Multi Family,0,4,N,N,3.452,Elizabeth,New Jersey,7215,488
+04aEnREszK,Land,1,1,Y,N,1.998,Elizabeth,New Jersey,7215,1078
+GRPbBBLH2N,Single Family,2,3,N,N,5.598,Elizabeth,New Jersey,7215,1717
+PVtde8m13J,Multi Family,2,2,Y,N,2.078,Atlantic City,New Jersey,8404,1316
+V5UBUNOfnp,Single Family,0,3,Y,N,2.534,Atlantic City,New Jersey,8405,1725
+zvEyQmCyDz,Single Family,1,1,N,N,8.265,Hudson County,New Jersey,7305,1281
+PMSRbLwE4H,Single Family,1,4,N,Y,8.838,Basking Ridge,New Jersey,7920,1241
+IcD78u0HPK,Land,0,3,Y,Y,6.216,Atlantic City,New Jersey,8404,218
+GlLhi7G6Wi,Land,4,3,N,Y,0.327,Elizabeth,New Jersey,7208,1037
+uoxjc0jVWS,Land,3,2,N,N,3.726,Elizabeth,New Jersey,7216,1870
+akAfNjl6yK,Land,3,0,N,N,3.525,Atlantic City,New Jersey,8405,1339
+Js4m9N6Lav,Land,4,1,Y,N,5.189,Basking Ridge,New Jersey,7920,818
+iDEa0Z5GhB,Multi Family,0,3,Y,N,2.432,Elizabeth,New Jersey,7216,1501
+mJCpRNt7vT,Single Family,2,4,Y,Y,8.564,Hammonton,New Jersey,8037,2303
+dAjR3PxKgA,Multi Family,1,0,Y,Y,0.696,Basking Ridge,New Jersey,7920,794
+WIaEnjWfSf,Multi Family,1,3,N,Y,0.551,Elizabeth,New Jersey,7208,2526
+15pAWY4Ikh,Single Family,4,0,Y,Y,1.841,Elizabeth,New Jersey,7216,1821
+0sDBQW610n,Land,0,0,Y,N,1.727,Elizabeth,New Jersey,7215,2228
+YeuIBm3G32,Single Family,2,1,N,Y,0.015,Elizabeth,New Jersey,7215,1583
+20KnCO4nD1,Multi Family,2,0,N,Y,6.861,Atlantic City,New Jersey,8402,834
+Y4UwNlVrIs,Multi Family,1,0,Y,Y,0.268,Atlantic City,New Jersey,8404,2297
+DKpjZPQr3T,Land,5,2,Y,Y,9.671,Elizabeth,New Jersey,7208,1303
+kQcsR48lgU,Single Family,1,0,N,Y,2.931,Atlantic City,New Jersey,8402,2742
+a2Xz83Jjkf,Land,3,0,Y,N,9.006,Elizabeth,New Jersey,7208,126
+Czbsg24hvj,Multi Family,3,1,N,Y,8.697,Basking Ridge,New Jersey,7920,2773
+JtpcW2kos8,Land,3,4,Y,Y,6.183,Atlantic City,New Jersey,8404,2196
+4KEm46AUHd,Single Family,1,4,N,N,6.103,Elizabeth,New Jersey,7215,2474
+BNaD73nGat,Multi Family,4,3,Y,Y,9.186,Hudson County,New Jersey,7305,356
+IiBtUAg1RE,Single Family,4,4,Y,N,5.585,Elizabeth,New Jersey,7216,2987
+9nq7gjT6Iv,Multi Family,4,1,N,N,9.692,Atlantic City,New Jersey,8405,2138
+tEioBfjcX0,Multi Family,0,4,Y,Y,4.774,Elizabeth,New Jersey,7215,1126
+jBL8z1qgBb,Single Family,1,4,N,N,5.074,Hudson County,New Jersey,7305,2173
+qJllXxCoTu,Multi Family,5,4,N,N,1.462,Atlantic City,New Jersey,8405,1869
+j3ysgctKH2,Multi Family,1,2,N,Y,9.32,Elizabeth,New Jersey,7208,2284
+VuG9tr6tlF,Multi Family,3,3,Y,Y,2.228,Atlantic City,New Jersey,8404,2638
+olWKfcXdFl,Multi Family,0,2,Y,Y,7.509,Atlantic City,New Jersey,8405,816
+1l5HDAjsmM,Land,1,4,Y,Y,5.613,Elizabeth,New Jersey,7216,189
+UysB83WP1y,Single Family,0,0,Y,Y,1.623,Hammonton,New Jersey,8037,2004
+xgTziO1hjM,Single Family,2,1,Y,Y,5.084,Atlantic City,New Jersey,8404,2074
+pYPlHkvkm7,Multi Family,1,4,Y,N,4.959,Hammonton,New Jersey,8037,1354
+nkgsKkiBHU,Multi Family,5,2,Y,Y,6.813,Basking Ridge,New Jersey,7920,2941
+iwvUDm8yL0,Land,5,4,N,N,3.296,Elizabeth,New Jersey,7208,1980
+DmXTjonU93,Single Family,1,1,N,Y,9.138,Elizabeth,New Jersey,7208,125
+ppXHwqyZQU,Multi Family,1,0,Y,N,4.502,Hammonton,New Jersey,8037,2580
+5y7qWgE9PA,Land,5,3,Y,N,6.512,Atlantic City,New Jersey,8402,2620
+GawYtj4Tsi,Single Family,4,3,N,Y,5.583,Elizabeth,New Jersey,7216,1302
+x3ewtOxZSd,Land,0,3,N,Y,2.601,Hudson County,New Jersey,7305,2804
+P32VleXcde,Single Family,5,4,Y,Y,6.74,Hammonton,New Jersey,8037,1609
+F7OZousRgh,Multi Family,3,0,N,Y,8.826,Atlantic City,New Jersey,8402,609
+55SRP4ANg3,Land,3,0,Y,N,9.386,Elizabeth,New Jersey,7216,2660
+7SdMn37AbQ,Land,1,1,N,N,5.207,Elizabeth,New Jersey,7215,456
+Q40oFUTcT6,Land,4,3,N,N,3.035,Elizabeth,New Jersey,7208,2812
+IXqS0K0vSi,Multi Family,1,3,N,Y,2.413,Elizabeth,New Jersey,7215,2739
+Dn0uVNw2pX,Land,4,1,Y,Y,8.821,Elizabeth,New Jersey,7216,1757
+LB4LsaV5VU,Land,1,4,N,N,5.002,Basking Ridge,New Jersey,7920,495
+08wNoarwIa,Single Family,5,4,N,Y,4.473,Atlantic City,New Jersey,8405,585
+PNH6cTnOq2,Multi Family,4,4,N,N,5.689,Atlantic City,New Jersey,8402,1869
+IlXXGdOE38,Land,5,3,N,N,6.361,Hammonton,New Jersey,8037,2194
+aU5kzY64AX,Multi Family,5,3,N,N,2.088,Atlantic City,New Jersey,8404,2915
+3A996DSV5d,Land,4,4,N,Y,6.439,Atlantic City,New Jersey,8404,1665
+GUDc9UDhBU,Multi Family,5,1,Y,N,4.322,Atlantic City,New Jersey,8404,570
+oMxxRNj8X5,Single Family,2,4,N,Y,9.781,Hudson County,New Jersey,7305,911
+hM62VuAMBj,Single Family,1,3,N,N,0.508,Atlantic City,New Jersey,8402,2691
+CDgLWnESGx,Single Family,5,2,Y,Y,8.335,Elizabeth,New Jersey,7216,1580
+T6l1a2N4Aq,Single Family,5,3,Y,N,8.07,Elizabeth,New Jersey,7208,2044
+ZqHSSeKNbf,Single Family,1,3,N,Y,4.99,Elizabeth,New Jersey,7215,168
+QHLdLu4y8L,Multi Family,2,0,Y,N,5.491,Atlantic City,New Jersey,8404,2290
+J2B1KrOZOj,Land,0,0,N,Y,3.699,Elizabeth,New Jersey,7216,2157
+qKVQp74oHX,Land,0,4,N,Y,0.409,Atlantic City,New Jersey,8405,1001
+hoCNQ5gpCA,Multi Family,1,3,N,Y,2.862,Elizabeth,New Jersey,7208,1072
+zpiyYG8QFW,Single Family,4,2,Y,Y,7.225,Hammonton,New Jersey,8037,2083
+Hz4xTGSOmu,Land,3,2,N,N,4.282,Hudson County,New Jersey,7305,1054
+LrbHvL1iaU,Multi Family,1,4,N,Y,1.625,Elizabeth,New Jersey,7215,2433
+On2kcLqPm1,Single Family,2,3,Y,Y,7.276,Hammonton,New Jersey,8037,635
+YQtGL7VHmI,Land,3,0,Y,Y,7.321,Hudson County,New Jersey,7305,1633
+CCCEcPT7Vi,Land,4,1,Y,N,4.039,Hudson County,New Jersey,7305,2921
+xIJm9cTRAv,Single Family,2,2,N,N,1.646,Hudson County,New Jersey,7305,1927
+mSslQHgDOy,Land,0,3,N,N,5.864,Elizabeth,New Jersey,7216,2465
+vxHqjvfYVY,Land,2,2,N,N,6.004,Elizabeth,New Jersey,7215,1586
+onSbOe7KTJ,Multi Family,5,4,Y,N,1.269,Atlantic City,New Jersey,8405,2837
+sCvWpuCYf0,Multi Family,2,1,N,N,6.636,Elizabeth,New Jersey,7215,2409
+Wtka2j1zHZ,Multi Family,0,3,Y,Y,7.058,Atlantic City,New Jersey,8405,366
+8x7OtFJUKs,Multi Family,3,3,Y,N,6.213,Elizabeth,New Jersey,7215,566
+BCaT5e9Fwk,Multi Family,2,4,N,N,5.029,Atlantic City,New Jersey,8404,2147
+bOlJY6zGMg,Multi Family,4,2,Y,N,2.489,Elizabeth,New Jersey,7208,1027
+1bNt8gh0IP,Land,5,0,N,Y,1.208,Atlantic City,New Jersey,8404,1452
+9rzfO0ZUDU,Single Family,3,4,Y,N,6.677,Elizabeth,New Jersey,7215,1069
+CIuvIFxkUU,Single Family,3,0,Y,N,3.775,Atlantic City,New Jersey,8405,1695
+WRTVQfgfkl,Single Family,0,0,Y,N,1.599,Hudson County,New Jersey,7305,630
+ZacG3x65Do,Single Family,2,1,Y,Y,8.652,Elizabeth,New Jersey,7208,268
+X6vQm8qFJf,Single Family,4,1,N,N,8.927,Atlantic City,New Jersey,8402,555
+P982zVzpx9,Land,5,4,Y,N,8.684,Hammonton,New Jersey,8037,1113
+hPgaaVDZst,Land,1,0,Y,Y,0.035,Hammonton,New Jersey,8037,1135
+uW3CgKaVkP,Land,5,4,Y,N,5.549,Atlantic City,New Jersey,8404,2301
+8KPTEAWCVl,Multi Family,5,3,N,Y,1.122,Hudson County,New Jersey,7305,771
+YOtxAGomkJ,Land,0,0,N,Y,5.369,Hammonton,New Jersey,8037,2123
+HsGX7MpYFP,Multi Family,1,2,N,N,2.973,Elizabeth,New Jersey,7208,469
+o9MJsf2LjW,Multi Family,5,0,Y,N,6.265,Elizabeth,New Jersey,7216,184
+LIUhPjbJ18,Multi Family,5,1,N,Y,6.017,Basking Ridge,New Jersey,7920,813
+1Jg9NzvXl7,Multi Family,2,4,Y,Y,2.728,Hammonton,New Jersey,8037,1954
+zVpilASR8h,Multi Family,4,1,N,N,0.177,Elizabeth,New Jersey,7208,285
+HJL4qQOmKE,Multi Family,2,2,Y,Y,0.204,Atlantic City,New Jersey,8405,288
+xPz4HoTBCt,Multi Family,4,0,Y,Y,7.658,Atlantic City,New Jersey,8405,1695
+SmMSm5XJ04,Single Family,2,0,Y,Y,4.178,Basking Ridge,New Jersey,7920,1976
+rns9kIm2em,Single Family,3,0,Y,N,3.089,Basking Ridge,New Jersey,7920,180
+5DgKud6leP,Land,4,1,N,N,6.607,Hudson County,New Jersey,7305,972
+yLf8Yo4tW5,Land,5,0,N,N,1.696,Atlantic City,New Jersey,8404,911
+8Ot5zs4jCt,Multi Family,0,3,Y,N,7.477,Hudson County,New Jersey,7305,160
+6j45fs9nau,Multi Family,5,4,Y,N,5.912,Hudson County,New Jersey,7305,892
+KRCK4Kgfs6,Land,5,2,Y,N,8.423,Elizabeth,New Jersey,7216,1158
+qINovu7Xej,Land,1,0,N,Y,3.322,Hudson County,New Jersey,7305,2677
+NXXfjoCGHT,Multi Family,0,1,N,Y,5.54,Elizabeth,New Jersey,7208,2886
+6libqQpdl8,Single Family,3,3,N,Y,2.718,Atlantic City,New Jersey,8404,1906
+aoCC3sMUUY,Multi Family,4,0,N,N,3.422,Atlantic City,New Jersey,8404,1540
+q28e75yh8p,Land,2,4,N,Y,3.036,Hudson County,New Jersey,7305,2003
+61jNAYUlAO,Land,2,2,Y,N,4.277,Elizabeth,New Jersey,7216,650
+E8OoHZiZ1L,Land,1,3,Y,Y,9.091,Atlantic City,New Jersey,8404,1450
+vmpDUmBFzH,Land,2,0,Y,N,8.214,Elizabeth,New Jersey,7216,1267
+KNLy6z1jdA,Multi Family,3,0,Y,Y,9.394,Elizabeth,New Jersey,7215,753
+nsrtNJEHaj,Multi Family,3,0,N,Y,3.758,Elizabeth,New Jersey,7216,2673
+NKihxbwen3,Land,0,1,N,Y,7.146,Elizabeth,New Jersey,7208,681
+bpx66g5iES,Multi Family,4,3,Y,N,7.966,Basking Ridge,New Jersey,7920,2532
+moEVuVf4Z2,Single Family,1,4,Y,N,5.972,Hudson County,New Jersey,7305,1221
+qG1aSgNxfP,Single Family,4,0,Y,N,9.533,Elizabeth,New Jersey,7208,2065
+4brBB5gxGZ,Land,1,4,N,Y,3.969,Atlantic City,New Jersey,8404,1141
+AkR3DAwS7e,Multi Family,1,3,Y,N,0.079,Atlantic City,New Jersey,8404,1021
+LhpUrgrPfk,Land,1,2,Y,Y,5.632,Atlantic City,New Jersey,8402,1688
+GddQiq6RlV,Land,2,3,Y,Y,3.741,Elizabeth,New Jersey,7208,1517
+K81PVVJtUh,Land,5,4,Y,N,5.045,Atlantic City,New Jersey,8404,2860
+VLGEahKCzp,Multi Family,4,1,N,N,2.749,Hudson County,New Jersey,7305,954
+H4ZVyqdZa3,Multi Family,4,1,N,N,5.165,Basking Ridge,New Jersey,7920,1069
+1L0OYOT8Gx,Multi Family,1,4,Y,Y,6.065,Elizabeth,New Jersey,7208,506
+5zOi7N266u,Land,4,2,Y,N,3.399,Atlantic City,New Jersey,8405,533
+tSxTjdQCSl,Single Family,4,0,Y,N,5.491,Hudson County,New Jersey,7305,1047
+fBLIj34k4z,Multi Family,2,3,N,N,1.061,Atlantic City,New Jersey,8402,629
+4BnQZ8vkmh,Single Family,1,2,Y,N,9.211,Elizabeth,New Jersey,7208,2385
+VvaD8xqckt,Single Family,3,1,N,N,3.296,Hammonton,New Jersey,8037,1017
+Hc6RGnfwQl,Single Family,1,1,N,N,8.179,Hammonton,New Jersey,8037,880
+hzcAeDIfxK,Single Family,5,3,N,N,7.703,Atlantic City,New Jersey,8405,2071
+LrUxK5ULYO,Land,0,2,Y,Y,7.277,Elizabeth,New Jersey,7215,449
+SL6JLflmqh,Multi Family,3,0,N,Y,1.256,Hammonton,New Jersey,8037,284
+WlfY6n0pRR,Single Family,2,2,Y,Y,5.313,Atlantic City,New Jersey,8402,471
+UzYS7OC1J7,Land,0,1,Y,N,7.526,Hudson County,New Jersey,7305,352
+AJ46Z7qTiY,Multi Family,1,0,N,Y,9.993,Elizabeth,New Jersey,7216,1180
+5rpfhMq1h1,Land,5,1,Y,N,3.693,Elizabeth,New Jersey,7208,1148
+VAXwIfLPWT,Land,2,2,Y,Y,2.188,Elizabeth,New Jersey,7216,2195
+0iothljEEJ,Multi Family,3,0,Y,N,0.592,Atlantic City,New Jersey,8405,2075
+66z3Qfj5kP,Single Family,4,0,Y,N,4.013,Atlantic City,New Jersey,8404,2309
+aASQEgAHGY,Land,2,3,N,N,7.157,Elizabeth,New Jersey,7215,2425
+YupECLH9e4,Multi Family,3,4,N,N,1.916,Hudson County,New Jersey,7305,1620
+4ZKfloYndH,Single Family,3,2,Y,N,9.449,Atlantic City,New Jersey,8405,646
+Jdo0TlNn35,Single Family,1,4,N,Y,6.755,Hudson County,New Jersey,7305,1221
+aYRKQLKvs5,Multi Family,1,2,Y,Y,3.798,Hammonton,New Jersey,8037,1140
+bMvLuy5XGb,Multi Family,5,1,N,Y,2.751,Elizabeth,New Jersey,7208,2226
+M5cAi9XF1O,Land,4,3,N,Y,7.148,Atlantic City,New Jersey,8405,2801
+NeJdTBuYHs,Multi Family,1,1,N,N,8.775,Hudson County,New Jersey,7305,416
+tOkKy19D5h,Land,1,0,N,N,2.116,Elizabeth,New Jersey,7215,1700
+MPvStDoMeo,Land,3,1,Y,Y,1.869,Elizabeth,New Jersey,7215,1005
+pC4opT2hCU,Single Family,3,3,Y,Y,3.136,Hammonton,New Jersey,8037,2358
+AGChGMuPS8,Multi Family,4,2,Y,Y,2.216,Atlantic City,New Jersey,8405,1798
+Cjw6HXdDUS,Single Family,5,1,Y,N,3.481,Atlantic City,New Jersey,8402,1534
+B0dk5tRcpO,Multi Family,4,4,Y,N,0.204,Atlantic City,New Jersey,8404,2259
+7CQvsmptYl,Land,3,3,Y,Y,8.433,Hudson County,New Jersey,7305,1721
+bRVWfP60rC,Single Family,3,0,N,N,7.512,Hammonton,New Jersey,8037,864
+31EltgO1u2,Land,0,3,Y,Y,2.158,Basking Ridge,New Jersey,7920,367
+qeZLn4SuBk,Land,4,2,N,Y,9.815,Atlantic City,New Jersey,8404,1419
+0PCtHjvhru,Multi Family,1,0,N,Y,9.425,Hudson County,New Jersey,7305,1800
+ZYapTqOqPK,Land,3,3,Y,Y,3.216,Elizabeth,New Jersey,7208,537
+EK5ennlxow,Multi Family,3,0,Y,Y,9.786,Elizabeth,New Jersey,7208,1675
+c4oEWY4oOo,Multi Family,2,3,Y,N,8.984,Elizabeth,New Jersey,7215,2107
+0y7W3LARbm,Single Family,4,2,N,Y,1.624,Atlantic City,New Jersey,8404,1595
+PEYq7eXI2p,Single Family,1,3,Y,N,6.331,Elizabeth,New Jersey,7208,1541
+rwPh6Mf1Mi,Single Family,5,1,N,Y,1.816,Atlantic City,New Jersey,8404,2915
+YyXv9LPyLu,Multi Family,0,4,Y,N,3.557,Atlantic City,New Jersey,8404,530
+dJLpHdcSxa,Multi Family,0,3,Y,Y,8.756,Atlantic City,New Jersey,8404,1422
+6rDb6FlV4g,Land,1,3,N,Y,4.357,Hammonton,New Jersey,8037,2930
+AJxjfUW2Ma,Land,5,4,Y,Y,7.675,Atlantic City,New Jersey,8404,1524
+NfnUc6XMjB,Multi Family,3,4,N,N,0.891,Elizabeth,New Jersey,7215,2143
+8c7J9ElbXF,Multi Family,0,2,Y,Y,1.021,Hudson County,New Jersey,7305,1158
+bSGMLE7VoM,Single Family,1,3,Y,N,7.789,Atlantic City,New Jersey,8404,1791
+jJURr73In0,Land,5,3,N,N,4.345,Elizabeth,New Jersey,7208,1307
+v0aRA0CLFp,Single Family,2,3,N,Y,3.341,Atlantic City,New Jersey,8405,2404
+2dhPC7nPhJ,Multi Family,0,4,Y,N,8.32,Atlantic City,New Jersey,8404,347
+J3r607Z2Qz,Land,1,3,Y,N,9.526,Atlantic City,New Jersey,8402,1895
+Dtsg1yC8aF,Single Family,3,0,Y,N,0.116,Elizabeth,New Jersey,7215,795
+uIv4TIaAhx,Single Family,5,1,Y,N,4.835,Elizabeth,New Jersey,7208,706
+A1vxSGRgtS,Single Family,1,4,N,N,3.271,Hammonton,New Jersey,8037,1767
+iyFBYRNIQc,Multi Family,5,1,N,N,1.409,Elizabeth,New Jersey,7215,870
+GLYUGAk83i,Single Family,1,0,N,Y,3.836,Atlantic City,New Jersey,8405,2411
+1dkqV8DZgz,Single Family,5,4,N,Y,2.215,Atlantic City,New Jersey,8405,241
+ej50sIj59O,Multi Family,1,1,Y,Y,3.788,Atlantic City,New Jersey,8405,1497
+Dm21O9jKL0,Multi Family,3,2,N,Y,6.704,Basking Ridge,New Jersey,7920,454
+5OjAx2g4Q0,Land,2,2,Y,N,3.339,Hammonton,New Jersey,8037,808
+QUNKhDdYlz,Multi Family,0,4,N,Y,0.133,Hammonton,New Jersey,8037,1896
+Cm4Al1lkUF,Single Family,4,2,Y,N,7.084,Elizabeth,New Jersey,7208,373
+cd1jeQRmTq,Single Family,3,0,N,Y,8.147,Elizabeth,New Jersey,7208,1316
+PJWWSErl45,Single Family,3,4,Y,Y,1.015,Hammonton,New Jersey,8037,1709
+CqiOPJpWkU,Multi Family,1,4,Y,N,9.804,Elizabeth,New Jersey,7215,2721
+1LtAtlfGkd,Multi Family,3,0,N,N,7.405,Atlantic City,New Jersey,8404,1686
+tFdMi4iUoS,Land,2,2,N,Y,8.391,Basking Ridge,New Jersey,7920,2124
+LfW1mYNxvz,Multi Family,2,3,Y,Y,4.325,Elizabeth,New Jersey,7208,2888
+NEYft5YUQc,Single Family,2,0,N,N,9.262,Hammonton,New Jersey,8037,2819
+LRLjrvIjsp,Land,5,1,N,N,1.078,Hudson County,New Jersey,7305,2156
+xRNE7iGqE4,Land,4,2,Y,N,8.745,Atlantic City,New Jersey,8404,790
+Z0FMptjWpb,Multi Family,2,3,N,Y,2.065,Basking Ridge,New Jersey,7920,1610
+TlICyzIwI5,Single Family,0,3,N,N,7.883,Hudson County,New Jersey,7305,2914
+YJyRdr7GPM,Land,3,2,Y,N,0.81,Elizabeth,New Jersey,7216,681
+h2QSvfoNoY,Land,3,4,Y,N,1.944,Elizabeth,New Jersey,7216,2603
+rBQfXazR2W,Land,5,1,Y,N,9.27,Elizabeth,New Jersey,7216,2658
+bxjiGhIrSW,Land,0,2,N,N,0.09,Elizabeth,New Jersey,7208,1382
+xVp8kpdO9U,Land,0,1,N,Y,7.115,Elizabeth,New Jersey,7215,1518
+0BZsw7ywlG,Single Family,2,2,N,Y,3.006,Atlantic City,New Jersey,8405,424
+GcJeIA0zw8,Single Family,3,3,N,N,7.096,Hudson County,New Jersey,7305,2315
+94uv0k0D9C,Single Family,4,2,Y,N,0.998,Elizabeth,New Jersey,7215,1465
+2mHTbppx4r,Multi Family,4,4,N,Y,6.161,Hammonton,New Jersey,8037,1218
+kj8E69vEXA,Multi Family,1,3,N,N,2.633,Elizabeth,New Jersey,7215,968
+ohWIcRllPy,Land,0,3,N,N,2.42,Hudson County,New Jersey,7305,2351
+16Oe3ClPfg,Multi Family,5,3,Y,N,7.191,Hammonton,New Jersey,8037,1827
+NM2w6Wkoqc,Single Family,5,2,N,Y,6.9,Elizabeth,New Jersey,7216,2481
+IfHy2F0CI9,Land,5,4,Y,Y,4.675,Hudson County,New Jersey,7305,422
+n92UIDWwAX,Multi Family,0,4,Y,Y,8.754,Elizabeth,New Jersey,7215,1114
+GsuAW3j6TW,Land,4,1,Y,N,1.24,Elizabeth,New Jersey,7216,2416
+pjDnAGjSbq,Multi Family,4,2,N,N,9.972,Hudson County,New Jersey,7305,1167
+bkJ4vNQ1pr,Multi Family,3,4,Y,N,7.874,Basking Ridge,New Jersey,7920,1268
+0QfNMQst4M,Single Family,4,1,N,N,1.405,Elizabeth,New Jersey,7208,1458
+HIIs0oXMdX,Multi Family,4,2,Y,N,2.53,Elizabeth,New Jersey,7216,403
+GTnNaqHLRd,Single Family,3,0,N,N,7.458,Basking Ridge,New Jersey,7920,286
+FijbEXh60l,Multi Family,2,4,Y,Y,0.302,Atlantic City,New Jersey,8402,660
+bWESCdZ50U,Land,1,2,N,Y,5.623,Atlantic City,New Jersey,8405,1836
+cWiICzEpPd,Single Family,1,3,Y,Y,1.386,Elizabeth,New Jersey,7216,2102
+vOw72j3nZP,Single Family,1,3,Y,N,1.49,Elizabeth,New Jersey,7215,2638
+8aV8FMscWP,Land,5,3,N,N,5.976,Hudson County,New Jersey,7305,637
+DKv2fWn21F,Multi Family,5,0,Y,Y,6.974,Hudson County,New Jersey,7305,2925
+NapcFT8EBZ,Land,5,1,Y,N,7.922,Atlantic City,New Jersey,8402,1683
+NwlornMoZG,Land,5,3,Y,Y,4.358,Atlantic City,New Jersey,8404,2057
+NHBTsBsp6z,Land,1,0,Y,Y,6.489,Atlantic City,New Jersey,8404,2059
