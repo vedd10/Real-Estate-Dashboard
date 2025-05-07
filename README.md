@@ -63,5 +63,5 @@ real-estate-dashboard/
 
 ## 📎 Sample Report
 
-See the exported PDF: [`Assignment.pdf`](./exports/Assignment.pdf)
+See the exported PDF: [`Assignment.pdf`](Assignment.pdf)
 
