@@ -65,8 +65,3 @@ real-estate-dashboard/
 
 See the exported PDF: [`Assignment.pdf`](./exports/Assignment.pdf)
 
-![Sample Screenshot](./visuals/dashboard_page1.png)
-
-## 📬 Contact
-
-Feel free to reach out for any feedback or collaboration!
